@@ -5,9 +5,9 @@
 <img align= "right" alt="coding" width="400" src="https://github.com/Shahid749/Shahid749/assets/120953229/403a4f24-0ae1-4e71-8769-b138d79dde15">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid749&label=Profile%20views&color=0e75b6&style=flat" alt="shahid749" /> </p>
 
-- 🌱 I’m currently learning **Rest API**
+- 🌱 I’m currently learning **Springoot**
 
-- 💬 Ask me about **Java,python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **mdshahidalam749@gmail.com**
 
